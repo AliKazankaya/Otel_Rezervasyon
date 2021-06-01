@@ -1,0 +1,16 @@
+
+
+--------------------------------------------------
+Oda Numarasi 14
+Musterinin adi-soyadi: ALI KAZANKAYA
+Kisi sayisi 2
+Toplam Tutar 1500.00
+Giris Tarihi 12:5:2021
+Cikis Tarihi 17:5:2021
+--------------------------------------------------
+Oda Numarasi 74
+Musterinin adi-soyadi: Cem Yçldçz
+Kisi sayisi 4
+Toplam Tutar 4800.00
+Giris Tarihi 24:8:2021
+Cikis Tarihi 2:9:2021
